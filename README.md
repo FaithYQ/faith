@@ -1,2 +1,1 @@
-# faith
-Just a personal repository.
+hello world!
